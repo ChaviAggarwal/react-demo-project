@@ -1,0 +1,6 @@
+export const cartDetails = {
+    GET_CART_DETAILS: 'GET_CART_DETAILS',
+    GET_CART_DETAILS_LOADED: 'GET_CART_DETAILS_LOADED',
+    GET_CART_DETAILS_ERROR: 'GET_CART_DETAILS_ERROR',
+    CART_DETAILS_URL: 'http://localhost:3000/api/save-offer'
+}
